@@ -3,7 +3,6 @@ using Apivscode2.Models;
 using Dapper;
 using Microsoft.EntityFrameworkCore;
 using Npgsql;
-using System.Data;
 
 namespace Apivscode2.Repository
 {

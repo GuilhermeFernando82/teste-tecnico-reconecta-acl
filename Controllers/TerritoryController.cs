@@ -1,6 +1,5 @@
 using Apivscode2.Interfaces;
 using Apivscode2.Models;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Apivscode2.Controllers;
