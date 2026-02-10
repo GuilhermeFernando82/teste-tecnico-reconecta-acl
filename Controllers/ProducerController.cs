@@ -10,7 +10,6 @@ public class ProducerController : ControllerBase
 {
     private readonly IProducerRepository _repository;
     private readonly IProducerService _service;
-    private readonly IFinancialService _financialService;
     public ProducerController(
         IProducerRepository repository,
         IProducerService service,
@@ -18,7 +17,6 @@ public class ProducerController : ControllerBase
     {
         _repository = repository;
         _service = service;
-        _financialService = financialService;
     }
 
 
