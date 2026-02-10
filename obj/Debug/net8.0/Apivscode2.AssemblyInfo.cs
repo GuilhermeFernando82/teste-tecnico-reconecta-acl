@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Apivscode2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71947c1590d10fe5752fd8a161ab2839018aefe9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Apivscode2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Apivscode2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
